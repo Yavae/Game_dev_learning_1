@@ -1,0 +1,22 @@
+# Entorno virtual
+venv/
+ENV/
+env/
+
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos temporales
+*.swp
+*.swo
+*.DS_Store
+
+# Configuración del sistema
+.idea/
+.vscode/
+*.log
+
+# Archivos de pruebas / outputs generados
+*.tmp
